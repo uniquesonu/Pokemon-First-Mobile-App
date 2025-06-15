@@ -20,8 +20,10 @@
     "internal": {
       "distribution": "internal",
       "android": {
-        "buildType": "apk"
-      }
+        "buildType": "apk",
+        "credentialsSource": "remote"
+      },
+      "autoIncrement": true
     }
   },
   "submit": {
