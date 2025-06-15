@@ -17,7 +17,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.uniquesonu.pokemon"
+      "package": "com.uniquesonu.pokemon",
+      "versionCode": 1
     },
     "web": {
       "bundler": "metro",
